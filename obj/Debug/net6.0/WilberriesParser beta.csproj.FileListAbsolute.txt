@@ -1,0 +1,38 @@
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\obj\Debug\net6.0\WilberriesParser beta.csproj.AssemblyReference.cache
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\obj\Debug\net6.0\WilberriesParser beta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\obj\Debug\net6.0\WilberriesParser beta.AssemblyInfoInputs.cache
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\obj\Debug\net6.0\WilberriesParser beta.AssemblyInfo.cs
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\obj\Debug\net6.0\WilberriesParser beta.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\WilberriesParser beta.exe
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\WilberriesParser beta.deps.json
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\WilberriesParser beta.runtimeconfig.json
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\WilberriesParser beta.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\ref\WilberriesParser beta.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\WilberriesParser beta.pdb
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\MySql.Data.xml
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\obj\Debug\net6.0\WilberriesParser beta.csproj.CopyComplete
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\obj\Debug\net6.0\WilberriesParser beta.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\obj\Debug\net6.0\ref\WilberriesParser beta.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\obj\Debug\net6.0\WilberriesParser beta.pdb
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\obj\Debug\net6.0\WilberriesParser beta.genruntimeconfig.cache
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Andrei Provotorov\source\repos\WilberriesParser beta\bin\Debug\net6.0\WebDriver.dll

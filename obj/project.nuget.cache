@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q9/aa/h9dAHM6F5vEplct5DxwTSDcTre37+D0PQEUZpScWs46tIDfjhv1Awz3yLiwVUVJgPSNcsoKLpJzwR7TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrei Provotorov\\source\\repos\\WilberriesParser beta\\WilberriesParser beta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\selenium.webdriver.chromedriver\\99.0.4844.5100\\selenium.webdriver.chromedriver.99.0.4844.5100.nupkg.sha512"
+  ],
+  "logs": []
+}
