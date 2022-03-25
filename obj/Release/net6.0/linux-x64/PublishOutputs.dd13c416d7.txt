@@ -1,0 +1,4 @@
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\publish\linux-x64\WilberriesParser beta.pdb
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\publish\linux-x64\NUnit3.TestAdapter.pdb
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\publish\linux-x64\MySql.Data.xml
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\publish\linux-x64\WilberriesParser beta

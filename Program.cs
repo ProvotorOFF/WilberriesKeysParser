@@ -17,9 +17,11 @@ namespace WilberriesParser_beta
             MySqlConnection conn = DBUtils.GetDBConnection();
             conn.Open();
             string[][] input = QueryData.dataRead(conn, "SELECT * FROM wildberriesKeys WHERE 1", 3);
-            string[][] output = new string[0][];
             conn.Close();
-            Parser.wildberriesParse(input);
+            string[][] output = Parser.wildberriesParse(input);
+            conn.Open();
+            QueryData.dataWrite(conn, output);
+            conn.Close();
             Console.Read();
         }
     }

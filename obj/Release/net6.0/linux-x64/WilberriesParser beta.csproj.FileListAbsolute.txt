@@ -1,0 +1,37 @@
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\NUnit3.TestAdapter.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\NUnit3.TestAdapter.pdb
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\nunit.engine.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\nunit.engine.api.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\nunit.engine.core.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\testcentric.engine.metadata.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\WilberriesParser beta
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\WilberriesParser beta.deps.json
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\WilberriesParser beta.runtimeconfig.json
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\WilberriesParser beta.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\ref\WilberriesParser beta.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\WilberriesParser beta.pdb
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\nunit.framework.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\WebDriver.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\MySql.Data.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\Google.Protobuf.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\ZstdNet.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\K4os.Compression.LZ4.Streams.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\BouncyCastle.Crypto.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\Ubiety.Dns.Core.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\K4os.Compression.LZ4.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\K4os.Hash.xxHash.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\System.Windows.Extensions.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\bin\Release\net6.0\linux-x64\MySql.Data.xml
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\obj\Release\net6.0\linux-x64\WilberriesParser beta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\obj\Release\net6.0\linux-x64\WilberriesParser beta.AssemblyInfoInputs.cache
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\obj\Release\net6.0\linux-x64\WilberriesParser beta.AssemblyInfo.cs
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\obj\Release\net6.0\linux-x64\WilberriesParser beta.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\obj\Release\net6.0\linux-x64\WilberriesParser beta.csproj.CopyComplete
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\obj\Release\net6.0\linux-x64\WilberriesParser beta.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\obj\Release\net6.0\linux-x64\ref\WilberriesParser beta.dll
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\obj\Release\net6.0\linux-x64\WilberriesParser beta.pdb
+C:\Users\Andrei Provotorov\Documents\GitHub\WilberriesKeysParser\obj\Release\net6.0\linux-x64\WilberriesParser beta.genruntimeconfig.cache
