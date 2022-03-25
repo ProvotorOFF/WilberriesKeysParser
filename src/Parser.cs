@@ -7,7 +7,6 @@ using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
-using OpenQA.Selenium.PhantomJS;
 using System.Text.RegularExpressions;
 using System.Runtime;
 
@@ -21,7 +20,7 @@ namespace parser
             var options = new ChromeOptions();
             options.AddArguments("headless");
             //options.AddArguments("--port 3307");
-            IWebDriver driver = new PhantomJSDriver();
+            IWebDriver driver = new ChromeDriver();
 
             driver.Navigate().GoToUrl("https://www.wildberries.ru/");
             for (int row = 0; row < data.Length; ++row)
