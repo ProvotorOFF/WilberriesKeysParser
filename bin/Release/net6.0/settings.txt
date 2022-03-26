@@ -1,0 +1,2 @@
+USE_CUSTOM_BROWSER_PATH = true
+BROWSER_PATH_VALUE = C:\Program Files (x86)\Google\Chrome\Application\chrome.exe

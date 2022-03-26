@@ -9,6 +9,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 using System.Text.RegularExpressions;
 using System.Runtime;
+using Settings;
 
 namespace parser
 {
@@ -18,9 +19,13 @@ namespace parser
         {
             string[][] output = new string[0][];
             var options = new ChromeOptions();
-            options.AddArguments("headless");
+            if (Settings.Settings.CustomPath() != null)
+            {
+                options.BinaryLocation = Settings.Settings.CustomPath();
+            }
+            //options.AddArguments("headless");
             //options.AddArguments("--port 3307");
-            IWebDriver driver = new ChromeDriver();
+            IWebDriver driver = new ChromeDriver(options);
 
             driver.Navigate().GoToUrl("https://www.wildberries.ru/");
             for (int row = 0; row < data.Length; ++row)
