@@ -28,6 +28,7 @@ namespace parser
             options.AddArguments("--start-maximized");
             options.AddArguments("--headless");
             options.AddArguments("--no-sandbox");
+            options.AddArguments("--disable-dev-shm-usage");
             IWebDriver driver = new ChromeDriver(options);
             driver.Navigate().GoToUrl("https://www.wildberries.ru/");
             for (int row = 0; row < data.Length; ++row)
