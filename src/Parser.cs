@@ -29,7 +29,6 @@ namespace parser
             options.AddArguments("--headless");
             options.AddArguments("--no-sandbox");
             IWebDriver driver = new ChromeDriver(options);
-
             driver.Navigate().GoToUrl("https://www.wildberries.ru/");
             for (int row = 0; row < data.Length; ++row)
             {
