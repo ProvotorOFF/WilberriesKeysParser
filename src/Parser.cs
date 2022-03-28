@@ -23,8 +23,11 @@ namespace parser
             {
                 options.BinaryLocation = Settings.Settings.CustomPath();
             }
-            //options.AddArguments("headless");
-            //options.AddArguments("--port 3307");
+            options.AddArguments("--disable-gpu");
+            options.AddArguments("--window-size=1920,1080");
+            options.AddArguments("--start-maximized");
+            options.AddArguments("--headless");
+            options.AddArguments("--no-sandbox");
             IWebDriver driver = new ChromeDriver(options);
 
             driver.Navigate().GoToUrl("https://www.wildberries.ru/");
@@ -36,7 +39,6 @@ namespace parser
                 {
                     driver.Navigate().GoToUrl("https://www.wildberries.ru/");
                     Thread.Sleep(1000);
-                    Console.WriteLine("OK");
                     driver.FindElement(By.ClassName("search-catalog__input")).SendKeys(currentQueries[i] + Keys.Return);
                     Console.WriteLine("Работаем. ID: " + data[row][1] + ". Запрос: " + currentQueries[i]);
                     int currentPosition = 0;
