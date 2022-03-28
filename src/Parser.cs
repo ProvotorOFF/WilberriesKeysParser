@@ -23,10 +23,10 @@ namespace parser
             {
                 options.BinaryLocation = Settings.Settings.CustomPath();
             }
+            options.AddArguments("--headless");
             options.AddArguments("--disable-gpu");
             options.AddArguments("--window-size=1920,1080");
             options.AddArguments("--start-maximized");
-            options.AddArguments("--headless");
             options.AddArguments("--no-sandbox");
             options.AddArguments("--disable-dev-shm-usage");
             IWebDriver driver = new ChromeDriver(options);
