@@ -27,8 +27,6 @@ namespace parser
             options.AddArguments("--disable-gpu");
             options.AddArguments("--window-size=1920,1080");
             options.AddArguments("--start-maximized");
-            options.AddArguments("--no-sandbox");
-            options.AddArguments("--disable-dev-shm-usage");
             IWebDriver driver = new ChromeDriver(options);
             driver.Navigate().GoToUrl("https://www.wildberries.ru/");
             for (int row = 0; row < data.Length; ++row)

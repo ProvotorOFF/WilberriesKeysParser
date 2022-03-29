@@ -37,7 +37,6 @@ namespace Settings
                 {
                     if (line.Contains("BROWSER_PATH_VALUE "))
                     {
-                        Console.WriteLine(line.Substring(21));
                         return line.Substring(21);
                     }
                 }

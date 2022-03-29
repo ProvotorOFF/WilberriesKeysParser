@@ -22,7 +22,7 @@ namespace WilberriesParser_beta
             conn.Open();
             QueryData.dataWrite(conn, output);
             conn.Close();
-            Console.Read();
+            Environment.FailFast("");
         }
     }
 }
