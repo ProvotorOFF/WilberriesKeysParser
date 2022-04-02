@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using SqlConn;
 using parser;
-
+using Settings;
 
 namespace WilberriesParser_beta
 {

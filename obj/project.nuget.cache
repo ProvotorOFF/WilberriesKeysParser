@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Fam8R2O/BTvREXK4fhF8hMu2MvKYsEpfbsvkBh5Hc8hZPW+JjFpZWHNqt4sELw7QPrgdK9APk8FNvg72zW5r5w==",
+  "dgSpecHash": "LNsb/eR35ng4LRX8Nr9jgDpEtIxSuD8T9q4RaXXNHkbxF8Mb6T1liA9/WfzgFEoFq/enwEdnmbSO8DzegB7Vww==",
   "success": true,
   "projectFilePath": "C:\\Users\\Andrei Provotorov\\Documents\\GitHub\\WilberriesKeysParser\\WilberriesParser beta.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,6 @@
     "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
     "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
     "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
-    "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\phantomjs\\2.1.1\\phantomjs.2.1.1.nupkg.sha512",
     "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\selenium.webdriver\\3.13.0\\selenium.webdriver.3.13.0.nupkg.sha512",
     "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\selenium.webdriver.chromedriver\\99.0.4844.5100\\selenium.webdriver.chromedriver.99.0.4844.5100.nupkg.sha512",
     "C:\\Users\\Andrei Provotorov\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
